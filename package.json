@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native-cookies/cookies": "^6.2.1",
-    "@reclaimprotocol/reclaim-react-native": "github:reclaimprotocol/reclaim-react-native-sdk#ae62395879cc51c8edb91134706da4937e9dd662",
+    "@reclaimprotocol/reclaim-react-native": "github:reclaimprotocol/reclaim-react-native-sdk#6c0a90056d26fc73cdd2a2473a36ac229aedb280",
     "react": "18.2.0",
     "react-native": "0.72.6",
     "react-native-svg": "^13.13.0",

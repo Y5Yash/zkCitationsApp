@@ -1767,10 +1767,10 @@
     invariant "^2.2.4"
     nullthrows "^1.1.1"
 
-"@reclaimprotocol/reclaim-react-native@github:reclaimprotocol/reclaim-react-native-sdk#ae62395879cc51c8edb91134706da4937e9dd662":
+"@reclaimprotocol/reclaim-react-native@github:reclaimprotocol/reclaim-react-native-sdk#6c0a90056d26fc73cdd2a2473a36ac229aedb280":
   version "0.2.0"
-  resolved "git+ssh://git@github.com/reclaimprotocol/reclaim-react-native-sdk.git#ae62395879cc51c8edb91134706da4937e9dd662"
-  integrity sha512-lfHuTUObiF4yj2swvzoLDpqJXwGZOdPRUzYWGx3/q8dt+2XHEkpMhqUq3tfTvdfDPg3P7zPuW+gMAeRVfZGW7A==
+  resolved "git+ssh://git@github.com/reclaimprotocol/reclaim-react-native-sdk.git#6c0a90056d26fc73cdd2a2473a36ac229aedb280"
+  integrity sha512-8gwnr4sJXCxH+c5F6Sk7j7XSyIc10Pm18LhrTZJUofrVLzqoHnvkaY2c7PSYq9scP9Gv7XstgTLduQkegElglg==
   dependencies:
     "@react-native-cookies/cookies" "^6.2.1"
     react-native-svg "^13.13.0"
